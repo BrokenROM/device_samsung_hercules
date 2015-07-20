@@ -1,3 +1,3 @@
-add_lunch_combo candy5_hercules-user
-add_lunch_combo candy5_hercules-userdebug
-add_lunch_combo candy5_hercules-eng
+add_lunch_combo broken_hercules-user
+add_lunch_combo broken_hercules-userdebug
+add_lunch_combo broken_hercules-eng
